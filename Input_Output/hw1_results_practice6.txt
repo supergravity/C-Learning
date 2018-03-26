@@ -1,0 +1,14 @@
+The input numbers: 
+20 70 40 80 60 100 50 89 61 75 
+The lower boundaries and upper boundaries: 
+1 6
+2 5
+7 10
+3 8
+
+
+The maxmium values of the queries: 
+100
+80
+89
+100
